@@ -1,5 +1,8 @@
 # 💫 About Me:
-I'm a Social Science MA Student at Humboldt University
+I'm a Social Science MA Student at Humboldt University interested in:
+
+* Causal Inference
+* Political Geography
 
 
 ## 🌐 Socials:
