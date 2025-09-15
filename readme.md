@@ -1,13 +1,3 @@
-# 💫 About Me:
-I'm a Social Science MA Student at Humboldt University interested in:
-
-* Causal Inference
-* Political Geography
-
-
-## 🌐 Socials:
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/KuhlenDaniel) 
-
 # 💻 Tech Stack:
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 # 📊 GitHub Stats:
